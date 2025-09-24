@@ -5,7 +5,6 @@
 ### 1. Clone the Repository
 ```sh
 git clone <your-repo-url>
-cd assignment/backend
 ```
 
 ### 2. Install Dependencies
