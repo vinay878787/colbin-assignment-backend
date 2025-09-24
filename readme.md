@@ -22,7 +22,14 @@ BASE_URL=http://localhost:3000
 ```
 
 ### 4. Start MongoDB
-Ensure you have a running MongoDB instance. You can use [MongoDB Atlas](https://www.mongodb.com/atlas) or run locally:
+Ensure you have a running MongoDB instance. You can use [MongoDB Atlas](https://www.mongodb.com/products/platform/atlas-database) or run locally:
+
+NOTE : 
+EITHER CREATE MONGODB ATLAS INSTANCE AND REPLACE (PREFERRED)
+MONGO_URI=mongodb://<username>:<password>@<host>:<port>/<database>
+
+ELSE
+HAVE LOCAL MONGODB INSTALLED (LOCAL SETUP BASED). YOU CAN RUN LOCAL MONDODB WITH BELOW COMMAND
 ```sh
 mongod
 ```
