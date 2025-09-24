@@ -1,5 +1,10 @@
 # Colbin assignment Backend
 
+NOTE: USE PRODUCTION ONLY IF YOU WERE NOT ABLE TO SETUP LOCALLY. THIS IS A FREE TIER SERVICE . IT MIGHT BREAK ANYTIME SOON WITHIN A WEEK . IF YOU USE PRODUCTION , YOU DONT NEED TO SETUP DB
+DELOYED PRODUCTION FRONTEND LINK : https://colbin-assignment-frontend.vercel.app/
+
+DEPLOYED PRODUCTION BACKEND LINK : https://colbin-assignment-backend.onrender.com
+
 ## Setup Instructions
 
 ### 1. Clone the Repository

@@ -9,7 +9,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://your-production-domain.com",
+  "https://colbin-assignment-frontend.vercel.app/",
 ];
 
 const corsOptions = {
