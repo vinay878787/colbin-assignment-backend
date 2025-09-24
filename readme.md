@@ -1,4 +1,4 @@
-# Recruitment Platform Backend
+# Colbin assignment Backend
 
 ## Setup Instructions
 
